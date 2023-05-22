@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Story App</string>
+    <string name="more_menu" translatable="false">More Menu</string>
+    <string name="log_out">Log Out</string>
+    <string name="create_new_story">Buat cerita baru</string>
+    <string name="image_detail">detail image</string>
+    <string name="map">Map</string>
+    <string name="retry">Retry</string>
+    <string name="data_not_loaded">Data tidak dimuat</string>
+    <string name="photo_preview">Foto</string>
+    <string name="user_name_preview">username</string>
+    <string name="capture_desc">ambil foto</string>
+    <string name="switch_camera_desc">ganti kamera</string>
+    <string name="camera_btn_text">Kamera</string>
+    <string name="gallery_btn_text">Galeri</string>
+    <string name="submit_btn_text">Kirim</string>
+    <string name="preview_image_desc">preview image</string>
+    <string name="description_hint">Deskripsi</string>
+    <string name="name_tv_preview">Nama</string>
+    <string name="description_txt_preview">deskripsi</string>
+    <string name="image_iv_preview">preview image</string>
+    <string name="login_tv_text">Masuk</string>
+    <string name="login_btn_text">Masuk</string>
+    <string name="e_mail_hint">E-Mail</string>
+    <string name="password_hint">Kata Sandi</string>
+    <string name="register_link_text">Daftar?</string>
+    <string name="create_account_tv_text">Buat Akun</string>
+    <string name="register_btn_text">Daftar</string>
+    <string name="name_hint">Nama</string>
+    <string name="login_link_text">Masuk?</string>
+    <string name="story_description_preview">deskripsi</string>
+    <string name="error_login">Email atau kata sandi tidak valid atau jaringan Anda tidak stabil</string>
+    <string name="error_register">Silakan masukkan nama, email dan kata sandi Anda dengan benar atau jaringan Anda tidak stabil</string>
+    <string name="register_failed">Registrasi gagal</string>
+    <string name="register_success">Pendaftaran berhasil, silahkan login!</string>
+    <string name="error_password">Kata sandi terlalu pendek</string>
+    <string name="permissions_not_granted">izin tidak diberikan</string>
+    <string name="take_photo_failed">Gagal mengambil gambar</string>
+    <string name="camera_failed">Gagal membuka kamera</string>
+    <string name="mandatory_desc">Masukkan deskripsi gambar terlebih dahulu</string>
+    <string name="mandatory_image">Harap masukkan file gambar terlebih dahulu</string>
+    <string name="email_empty">Harap masukkan email</string>
+    <string name="password_empty">Harap masukkan password</string>
+    <string name="settings_title">Pengaturan</string>
+    <string name="night_mode_label">Mode Malam</string>
+    <string name="language_label">Bahasa</string>
+    <string name="add_location_text">Add current location</string>
+    <string name="title_activity_maps">Story Maps</string>
+    <string name="menu_maps">Maps</string>
+</resources>

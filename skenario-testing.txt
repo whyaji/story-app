@@ -1,0 +1,22 @@
+Berikut skenario dari testing:
+
+# ListStoryViewModelTest
+    Ketika berhasil memuat data cerita.
+    - Memastikan data yang dikembalikan tidak null.
+    - Memastikan data paging yang dikembalikan sesuai dengan yang diharapkan.
+    - Memastikan jumlah data yang dikembalikan sesuai dengan yang diharapkan.
+    - Memastikan data pertama yang dikembalikan sesuai dengan yang diharapkan.
+
+    Ketika tidak ada data cerita:
+    - Memastikan jumlah data yang dikembalikan nol.
+
+# CreateStoryViewModelTest
+    Ketika menambahkan cerita baru:
+    - Memastikan respons data tidak null.
+    - Memastikan respons yang dikembalikan adalah sukses.
+    - Memastikan data response sesuai dengan yang diharapkan
+    - Memastikan data pertama yang dikembalikan sesuai.
+
+    Ketika menambahkan cerita baru dengan file dan deskripsi null (tidak ada data cerita):
+    - Memastikan respons yang dikembalikan tidak null.
+    - Memastikan kesalahan dalam respons sesuai dengan yang diharapkan yaitu gagal.
